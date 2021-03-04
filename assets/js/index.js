@@ -27,8 +27,7 @@ const app = {
     {
       name: "Endless Rain",
       singer: " X Japan",
-      path:
-        "https://mp3.zing.vn/xhr/media/download-source?type=audio&code=ZmxGyZnNBacJNnXyktDGZHTZgklzhpLXJ&sig=1a450cccfcc77a0ecddea42369c2736f",
+      path: "https://tainhac123.com/download/endless-rain-x-japan.5vjC65VzRZ.html",
       image: "https://data.chiasenhac.com/data/cover/27/26676.jpg",
     },
     {
