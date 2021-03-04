@@ -63,7 +63,7 @@ const app = {
     {
       name: "Classic Love",
       singer: "Tofu",
-      path: "https://tainhac123.com/download/co-dien-classic-love-tofu-ft-vovanduc.bdA47vomSJlY.html",
+      path: "https://tainhac123.com/download/co-dien-classic-love-tofu-ft-vovanduc.ZTbDEh2Ic9es.html",
       image: "https://avatar-nct.nixcdn.com/singer/avatar/2019/07/30/6/0/5/f/1564467469828.jpg",
     },
     {
