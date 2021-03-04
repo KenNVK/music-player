@@ -1,0 +1,10 @@
+Render songs --> OK
+Scroll top  --> OK
+Play / pause / seek --> OK
+CD rotation --> OK
+Next / previous --> OK
+Random --> OK
+Next / repeat when ended --> OK
+Active song  --> OK
+Scroll active song into view --> OK
+Play when click --> OK
